@@ -1,5 +1,0 @@
-function ClientsPage(){
-    return(
-        
-    )
-}

@@ -1,5 +1,0 @@
-function ListPage(){
-    return <div>
-
-
-}

@@ -1,4 +1,0 @@
-function AboutPage(){
-
-}
-exort default 

@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-function ClientsPage() {
+export default function ClientsPage() {
   const clients = [
     { id: "max", name: "Maximilian" },
     { id: "manu", name: "Manuel" },
@@ -19,5 +19,3 @@ function ClientsPage() {
     </div>
   );
 }
-
-export default ClientsPage;

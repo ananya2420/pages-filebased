@@ -1,5 +1,0 @@
-function BlogPostPage(){
-    return(
-        
-    )
-}
